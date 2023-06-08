@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Sales Prediction Project</title>
-</head>
-<body>
+
   <h1>Sales Prediction Project</h1>
   
   <h2>Introduction</h2>
